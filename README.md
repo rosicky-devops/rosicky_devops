@@ -8,26 +8,26 @@ I build reliable infrastructure, automate deployments, and design observability 
 
 **Cloud & Infrastructure**
 
-AWS
-Terraform
-Linux
+- AWS
+- Terraform
+- Linux
 
 **Containers & Orchestration**
 
-Docker
-Kubernetes
-Helm
+- Docker
+- Kubernetes
+- Helm
 
 **GitOps & CI/CD**
 
-ArgoCD
-GitHub Actions
+- ArgoCD
+- GitHub Actions
 
 **Monitoring & Observability**
 
-Prometheus
-Grafana
-Loki
+- Prometheus
+- Grafana
+- Loki
 
 **📦 DevOps Projects
 Terraform AWS Infrastructure**
@@ -52,10 +52,10 @@ Automated build and deployment pipeline using GitHub Actions.
 
 **🧠 Current Focus**
 
-GitOps platform engineering
-Kubernetes cluster operations
-Infrastructure automation
-Observability and monitoring systems
+- GitOps platform engineering
+- Kubernetes cluster operations
+- Infrastructure automation
+- Observability and monitoring systems
 
 **📂 GitHub Portfolio**
 
